@@ -3,3 +3,7 @@
 
 
 C'est une simple simulation d'un objet physique rebondissant en 2D sur python en utilisant le graphics engine turtle.
+
+Comment l'exécuter ?
+
+Il suffit juste d'extraire le turtle_bouncing.zip et de lancer le boucing_simulation.exe.
