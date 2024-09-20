@@ -1,4 +1,3 @@
 # Turtle-bouncing
 <img width="376" alt="Capture2" src="https://github.com/user-attachments/assets/2d14a337-7502-4654-9ae1-ec81b0aba1be">
-
-A turtle bouncing in turtle
+C'est une simple simulation d'un objet physique rebondissant en 2D sur python en utilisant le graphics engine turtle.
