@@ -6,4 +6,4 @@ C'est une simple simulation d'un objet physique rebondissant en 2D sur python en
 
 # Comment l'exécuter ?
 
-Il suffit juste d'extraire le turtle_bouncing.zip et de lancer le boucing_simulation.exe.
+Il suffit juste d'extraire le turtle_bouncing_main.zip puis d'extraire le turtle_bouncing.zip et de lancer le boucing_simulation.exe.
